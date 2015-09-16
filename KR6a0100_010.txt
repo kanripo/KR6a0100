@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:31:24.410674
+#+DATE: 2015-08-30 19:31:31.563201
 #+TITLE: 別譯雜阿含經
 #+PROPERTY: CBETA_ID T02n0100
 #+PROPERTY: ID KR6a0100
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 2, No. 100
 #+PROPERTY: VOL 02
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6a0100_T_010-0443a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 《別譯雜阿含》經卷第十(丹本第十八卷初准)¶
+《別譯雜阿含》經卷第十(丹本第十八卷初准)¶
 ¶
 失譯人名今附秦錄¶
 
-190
-:PROPERTIES:
-:head: （一九○）
-:END:
-
+（一九○）
 
 如是我聞：
 
@@ -91,11 +86,7 @@
 爾時，犢子聞佛所說，歡喜奉¶
 行。¶
 
-191
-:PROPERTIES:
-:head: （一九一）
-:END:
-
+（一九一）
 
 如是我聞：
 
@@ -125,11 +116,7 @@
 爾時，犢子梵¶
 志聞尊者目連所說，歡喜奉行。¶
 
-192
-:PROPERTIES:
-:head: （一九二）
-:END:
-
+（一九二）
 
 如是我聞：
 
@@ -172,11 +159,7 @@
 犢子梵¶
 志聞佛所說，歡喜而去。¶
 
-193
-:PROPERTIES:
-:head: （一九三）
-:END:
-
+（一九三）
 
 爾時，尊者僧提迦旃延在那提城群寔¶
 迦所住之處。爾時，犢子梵志以緣事故，往詣¶
@@ -222,11 +205,7 @@
 犢子¶
 梵志聞尊者語，歡喜而去。¶
 
-194
-:PROPERTIES:
-:head: （一九四）
-:END:
-
+（一九四）
 
 如是我聞：
 
@@ -269,11 +248,7 @@
 梵志聞佛所說，歡喜而去。
 <pb:KR6a0100_T_010-0444c>¶
 
-195
-:PROPERTIES:
-:head: （一九五）
-:END:
-
+（一九五）
 
 如是我聞：
 
@@ -312,11 +287,7 @@
 佛說是已，諸比丘¶
 聞佛所說，歡喜奉行。¶
 
-196
-:PROPERTIES:
-:head: （一九六）
-:END:
-
+（一九六）
 
 如是我聞：
 
@@ -432,11 +403,7 @@
 犢子梵志聞佛所說，¶
 歡喜而去。¶
 
-197
-:PROPERTIES:
-:head: （一九七）
-:END:
-
+（一九七）
 
 如是我聞：
 
@@ -481,11 +448,7 @@
 犢子¶
 梵志聞佛所說，歡喜而去。¶
 
-198
-:PROPERTIES:
-:head: （一九八）
-:END:
-
+（一九八）
 
 如是我聞：
 
